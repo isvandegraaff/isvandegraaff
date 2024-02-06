@@ -6,4 +6,5 @@
 - 📫 How to reach me: https://www.linkedin.com/in/isvandegraaff/
 
 
-
+🎉Recent Milestone: 
+I completed a DotNet oriented Full Stack Development Bootcamp with TechMongers in February 2024!
